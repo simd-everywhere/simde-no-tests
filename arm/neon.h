@@ -72,6 +72,7 @@
 #include "neon/hadd.h"
 #include "neon/hsub.h"
 #include "neon/ld1.h"
+#include "neon/ld1_lane.h"
 #include "neon/ld3.h"
 #include "neon/ld4.h"
 #include "neon/max.h"
