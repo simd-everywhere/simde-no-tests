@@ -90,6 +90,7 @@
 #include "neon/mlsl.h"
 #include "neon/mlsl_high.h"
 #include "neon/mlsl_n.h"
+#include "neon/mov.h"
 #include "neon/movl.h"
 #include "neon/movl_high.h"
 #include "neon/movn.h"
